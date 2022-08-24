@@ -1,0 +1,11 @@
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\bin\Debug\Dados.exe.config
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\bin\Debug\Dados.exe
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\bin\Debug\Dados.pdb
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.Form1.resources
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.Properties.Resources.resources
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.csproj.GenerateResource.cache
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.exe
+D:\visual studio\c#\Ejercicios varios\Dados\Dados\obj\Debug\Dados.pdb
